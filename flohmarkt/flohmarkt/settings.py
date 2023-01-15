@@ -25,7 +25,7 @@ SECRET_KEY = "2340243509ß7n45ß09943598zn 435hkj45h4598uz549u8ß5t98u"
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["flohmarkt.adi.io", "127.0.0.1"]
+ALLOWED_HOSTS = ["flohmarkt.sieker.io", "127.0.0.1"]
 
 INTERNAL_IPS = [
     "127.0.0.1",
